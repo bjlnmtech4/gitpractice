@@ -1,2 +1,0 @@
-First Line in f22.txt
-Second Line
